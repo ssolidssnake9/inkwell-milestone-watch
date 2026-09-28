@@ -1,3 +1,5 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ssolidssnake9/inkwell-milestone-watch)
+
 # Inkwell Milestone Watch
 
 A quiet daily watch on a virtual pet's care streak. It stays silent on
